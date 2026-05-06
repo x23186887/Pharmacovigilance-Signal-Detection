@@ -1,11 +1,8 @@
 data/
 venv/
 *.csv
-*.txt
-*.pdf
-*.zip
 *.pkl
-*.db
+*.zip
 __pycache__/
 *.pyc
 notebooks/
